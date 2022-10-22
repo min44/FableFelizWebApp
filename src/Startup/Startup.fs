@@ -60,7 +60,7 @@ let filteredList model =
 let appTitle =
     Html.p [
     prop.className "title"
-    prop.text "Filter list" ]
+    prop.text "Filter great list" ]
 
 let render state dispatch =
     Html.div [
