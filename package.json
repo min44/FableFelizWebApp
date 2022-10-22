@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "fable watch src/Startup --run webpack serve"
+    "start": "dotnet fable watch src/Startup --run webpack serve"
   },
   "dependencies": {
     "react": "18.2.0",
